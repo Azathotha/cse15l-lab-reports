@@ -2,6 +2,7 @@
 
 ## 1. cd <br />
 a. An example of using the command with no arguments <br />
+![Image]()
 
 
 
