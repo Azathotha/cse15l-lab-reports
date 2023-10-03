@@ -3,6 +3,7 @@
 ## 1. cd
 a. An example of using the command with no arguments <br />
 ![Image](https://github.com/Azathotha/cse15l-lab-reports/blob/main/images/cd_no_arg.png)
+> I got this output because cd without an argument means I want to change my cuttent working directory to home directory.
 
 b. An exmaple of using the command with a path to a directory as an argument <br />
 ![Image](https://github.com/Azathotha/cse15l-lab-reports/blob/main/images/cd_direct.png)
