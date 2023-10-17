@@ -1,1 +1,2 @@
-[Lab Report 1](https://github.com/Azathotha/cse15l-lab-reports/blob/main/LabReport1.md)
+[Lab Report 1](https://github.com/Azathotha/cse15l-lab-reports/blob/main/LabReport1.md) <br />
+[Lab Report 2](https://github.com/Azathotha/cse15l-lab-reports/blob/main/LabReport2.md)
