@@ -58,6 +58,8 @@ class StringServer {
 - Changes in Relevant Fields: count is incremented, and str is updated to include the new string "2. How am I".
 
 ## Part 2. Key
+- respond to the two feedbacks(ls using the whole path):
+  ![whole_path](https://github.com/Azathotha/cse15l-lab-reports/blob/main/images/Whole_pass_SSH_keys.png)
 - The path to the private and public key for my SSH key for logging into ieng6
   ![key_path](https://github.com/Azathotha/cse15l-lab-reports/blob/main/images/pri_pub_SSH_key.png)
 - Log into ieng6 with course-specific account without a password
