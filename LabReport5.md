@@ -147,7 +147,7 @@
       ```ruby
       bash test.sh
       ```
-    - Description of What to Edit to Fix the Bug:
+    - Description of What to Edit to Fix the Bug: <br />
       In ListExamplesTests.java, update the StringChecker implementation to use .equals() instead of == for string comparison. Here's the corrected code:
       ```ruby
       StringChecker sc = s -> s.equals(word);
