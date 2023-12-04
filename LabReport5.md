@@ -29,7 +29,7 @@
 		assertArrayEquals(new String[]{ "filter", "filter"}, l2.toArray());
         }
   ```
-  - Output:
+  - Output: <br />
   ![error_output](https://github.com/Azathotha/cse15l-lab-reports/blob/main/images/5/LabReport5_e_output.png)
 - A response from a TA:
   - Hi,  <br /> <br />
@@ -44,12 +44,12 @@
     }
   }
   ```
-- Terminal Output after Trying the Suggestion:
+- Terminal Output after Trying the Suggestion:<br />
   - ![try](https://github.com/Azathotha/cse15l-lab-reports/blob/main/images/5/try_output.png)
   - Bug Description:
     After the debugging method, I saw that the == operator is not correctly comparing the strings. The comparison might be based on object references rather than the content of the strings. To fix this issue, I need to use the .equals() method for string comparison.
 - Information about the Setup:
-  - File & Directory Structure:
+  - File & Directory Structure: <br />
     ![structure](https://github.com/Azathotha/cse15l-lab-reports/blob/main/images/5/file_structure.png)
   - Contents of Each File Before Fixing the Bug:
     - ListExamples.java
@@ -154,5 +154,5 @@
       ```
 
 ## Part 2 – Reflection
-using jdb, writting grader
+In the second part of the quarter, I learned how to use jdb to figure out and fix problems in Java code. It allowed me to stop the program at certain points, check what's happening, and step through the code step by step. Also, while working on creating a grader, I learned how important it is to have good test cases to properly evaluate and grade code. It was cool to see how these tools, commands and practices can make programming easier and more efficient.
 
