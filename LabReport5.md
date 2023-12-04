@@ -44,10 +44,12 @@
     }
   }
   ```
-- Terminal Output after Trying the Suggestion:<br />
+- Terminal Output after Trying the Suggestion: <br />
   - ![try](https://github.com/Azathotha/cse15l-lab-reports/blob/main/images/5/try_output.png)
   - Bug Description:
     After the debugging method, I saw that the == operator is not correctly comparing the strings. The comparison might be based on object references rather than the content of the strings. To fix this issue, I need to use the .equals() method for string comparison.
+  - After fixing the bug: <br />
+    ![fixed](https://github.com/Azathotha/cse15l-lab-reports/blob/main/images/5/fixed_output.png)
 - Information about the Setup:
   - File & Directory Structure: <br />
     ![structure](https://github.com/Azathotha/cse15l-lab-reports/blob/main/images/5/file_structure.png)
